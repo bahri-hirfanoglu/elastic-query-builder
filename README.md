@@ -1,4 +1,4 @@
-# Elastic Query Builder
+# Elastic Query Creator
 
 The `elastic-query-creator` package is a TypeScript library that provides a convenient way to construct complex queries for Elasticsearch.
 
