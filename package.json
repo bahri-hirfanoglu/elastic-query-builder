@@ -1,0 +1,19 @@
+{
+  "name": "elastic-query-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bahri Hırfanoğlu",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}

@@ -1,0 +1,26 @@
+# Genel dosyalar
+node_modules/
+dist/
+
+# Yerel yapılandırma dosyaları
+.env
+
+# IDE yapılandırma dosyaları
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.log
+*.log.*
+*.tmp
+
+# Yedek dosyalar
+*~
+*.bak
+
+# Derleme çıktıları
+*.js
+*.js.map
+
+# IDE'ye özgü dosyalar
+.DS_Store
