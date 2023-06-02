@@ -1,7 +1,7 @@
 {
   "name": "elastic-query-builder",
   "version": "1.0.0",
-  "description": "",
+  "description": "An application where you can create Elasticsearch queries using Typescript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
