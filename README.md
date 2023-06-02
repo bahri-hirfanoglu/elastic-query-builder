@@ -1,23 +1,23 @@
 # Elastic Query Builder
 
-The `elastic-query-builder` package is a TypeScript library that provides a convenient way to construct complex queries for Elasticsearch.
+The `elastic-search-query-builder` package is a TypeScript library that provides a convenient way to construct complex queries for Elasticsearch.
 
 ## Installation
 
-You can install the `elastic-query-builder` package using npm:
+You can install the `elastic-search-query-builder` package using npm:
 
 ```shell
-npm install elastic-query-builder
+npm install elastic-search-query-builder
 ```
 
 ## Usage
 
-To use the **elastic-query-builder** library, follow the steps below:
+To use the **elastic-search-query-builder** library, follow the steps below:
 
 1. Import the **QueryBuilder** class from the library:
 
 ```typescript
-import { QueryBuilder } from 'elastic-query-builder';
+import { QueryBuilder } from 'elastic-search-query-builder';
 ```
 
 2. Create an instance of the **QueryBuilder** class:
@@ -46,10 +46,10 @@ The **query** object can now be used in your Elasticsearch operations.
 
 ## Examples
 
-Here are some examples to demonstrate the usage of the **elastic-query-builder** library:
+Here are some examples to demonstrate the usage of the **elastic-search-query-builder** library:
 
 ```typescript
-import { QueryBuilder } from 'elastic-query-builder';
+import { QueryBuilder } from 'elastic-search-query-builder';
 
 const queryBuilder = new QueryBuilder();
 
@@ -69,7 +69,7 @@ const query = queryBuilder.build();
 ```
 
 ```typescript
-import { QueryBuilder } from 'elastic-query-builder';
+import { QueryBuilder } from 'elastic-search-query-builder';
 
 // Create an instance of the QueryBuilder class
 const queryBuilder = new QueryBuilder();

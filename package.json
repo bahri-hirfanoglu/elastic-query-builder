@@ -1,5 +1,5 @@
 {
-  "name": "elastic-query-builder",
+  "name": "elastic-search-query-builder",
   "version": "1.0.0",
   "description": "An application where you can create Elasticsearch queries using Typescript.",
   "main": "dist/index.js",
