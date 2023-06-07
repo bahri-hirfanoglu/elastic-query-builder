@@ -93,4 +93,4 @@ class QueryBuilder {
   }
 }
 
-export default { QueryBuilder };
+export { QueryBuilder };
